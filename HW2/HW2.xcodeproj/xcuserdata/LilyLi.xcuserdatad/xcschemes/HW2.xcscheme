@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8A3FB1111A9280EE0058DD44"
-               BuildableName = "Blackjack.app"
-               BlueprintName = "Blackjack"
-               ReferencedContainer = "container:Blackjack.xcodeproj">
+               BlueprintIdentifier = "8A33B2181A9D1B0D000ADFE4"
+               BuildableName = "HW2.app"
+               BlueprintName = "HW2"
+               ReferencedContainer = "container:HW2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8A3FB1261A9280EF0058DD44"
-               BuildableName = "BlackjackTests.xctest"
-               BlueprintName = "BlackjackTests"
-               ReferencedContainer = "container:Blackjack.xcodeproj">
+               BlueprintIdentifier = "8A33B22D1A9D1B0E000ADFE4"
+               BuildableName = "HW2Tests.xctest"
+               BlueprintName = "HW2Tests"
+               ReferencedContainer = "container:HW2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8A3FB1261A9280EF0058DD44"
-               BuildableName = "BlackjackTests.xctest"
-               BlueprintName = "BlackjackTests"
-               ReferencedContainer = "container:Blackjack.xcodeproj">
+               BlueprintIdentifier = "8A33B22D1A9D1B0E000ADFE4"
+               BuildableName = "HW2Tests.xctest"
+               BlueprintName = "HW2Tests"
+               ReferencedContainer = "container:HW2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8A3FB1111A9280EE0058DD44"
-            BuildableName = "Blackjack.app"
-            BlueprintName = "Blackjack"
-            ReferencedContainer = "container:Blackjack.xcodeproj">
+            BlueprintIdentifier = "8A33B2181A9D1B0D000ADFE4"
+            BuildableName = "HW2.app"
+            BlueprintName = "HW2"
+            ReferencedContainer = "container:HW2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8A3FB1111A9280EE0058DD44"
-            BuildableName = "Blackjack.app"
-            BlueprintName = "Blackjack"
-            ReferencedContainer = "container:Blackjack.xcodeproj">
+            BlueprintIdentifier = "8A33B2181A9D1B0D000ADFE4"
+            BuildableName = "HW2.app"
+            BlueprintName = "HW2"
+            ReferencedContainer = "container:HW2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8A3FB1111A9280EE0058DD44"
-            BuildableName = "Blackjack.app"
-            BlueprintName = "Blackjack"
-            ReferencedContainer = "container:Blackjack.xcodeproj">
+            BlueprintIdentifier = "8A33B2181A9D1B0D000ADFE4"
+            BuildableName = "HW2.app"
+            BlueprintName = "HW2"
+            ReferencedContainer = "container:HW2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

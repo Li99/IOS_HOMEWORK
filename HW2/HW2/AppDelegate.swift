@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Blackjack
+//  HW2
 //
-//  Created by Huibo Li on 2/16/15.
+//  Created by Huibo Li on 2/24/15.
 //  Copyright (c) 2015 Huibo Li. All rights reserved.
 //
 

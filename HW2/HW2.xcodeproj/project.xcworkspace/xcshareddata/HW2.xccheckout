@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>48C61389-89D9-41D4-B85C-CD481C341A5F</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>27F5DB16E00753F4323A92DB0C492C11F83BDCE3</key>
+		<string>https://github.com/NYU-Engineering-CS394/cs394-9033-spring2015.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>27F5DB16E00753F4323A92DB0C492C11F83BDCE3</key>
+		<string>cs394-9033-spring2015/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NYU-Engineering-CS394/cs394-9033-spring2015.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>27F5DB16E00753F4323A92DB0C492C11F83BDCE3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>27F5DB16E00753F4323A92DB0C492C11F83BDCE3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cs394-9033-spring2015</string>
+		</dict>
+	</array>
+</dict>
+</plist>

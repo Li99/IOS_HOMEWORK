@@ -1,15 +1,15 @@
 //
-//  BlackjackTests.swift
-//  BlackjackTests
+//  HW2Tests.swift
+//  HW2Tests
 //
-//  Created by Huibo Li on 2/16/15.
+//  Created by Huibo Li on 2/24/15.
 //  Copyright (c) 2015 Huibo Li. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class BlackjackTests: XCTestCase {
+class HW2Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()

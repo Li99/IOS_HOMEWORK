@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Blackjack.xcscheme</key>
+		<key>HW2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8A3FB1111A9280EE0058DD44</key>
+		<key>8A33B2181A9D1B0D000ADFE4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8A3FB1261A9280EF0058DD44</key>
+		<key>8A33B22D1A9D1B0E000ADFE4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
